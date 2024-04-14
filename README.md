@@ -1,2 +1,1 @@
-#Branch do desenvolvimento do backend do sistema
-# Branch do Frontend do Sistema
+# Branch de desenvolvimento do Frontend do Sistema
